@@ -12,3 +12,6 @@ venv/
 .DS_Store
 .idea/
 .vscode/
+
+# Figures written by polyweave.viz helpers
+plots/
